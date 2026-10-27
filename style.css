@@ -360,6 +360,10 @@ a.contact-value:hover { color: var(--blue); }
 .gb-date { font-size: 11px; color: var(--gray-light); }
 .gb-msg { margin-top: 4px; font-size: 13px; color: #475569; line-height: 1.6; overflow-wrap: anywhere; }
 
+.page-foot { text-align: center; margin-top: 24px; }
+.page-foot a { font-size: 11px; color: var(--gray-light); text-decoration: none; }
+.page-foot a:hover { color: var(--blue); text-decoration: underline; }
+
 .load-error { text-align: center; margin-top: 16px; font-size: 13px; color: var(--red); }
 
 /* ===== 화면 폭에 따라 ===== */
